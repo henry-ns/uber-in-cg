@@ -1,0 +1,553 @@
+[{
+    "address": "Alto Branco, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.196169999999929, -35.87121999999999],
+        "southwest": [-7.216169999999929, -35.89121999999998]
+    },
+    "lat": -7.206169999999929,
+    "lng": -35.881219999999985
+}, {
+    "address": "Rua Padre Pedro Serr\u00e3o, Liberdade, Campina Grande, Para\u00edba, 58414-265",
+    "bbox": {
+        "northeast": [-7.237539216654857, -35.89170786057001],
+        "southwest": [-7.239539216654857, -35.893707860570004]
+    },
+    "lat": -7.238539216654857,
+    "lng": -35.892707860570006
+}, {
+    "address": "Arax\u00e1, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.193139999999962, -35.899149999999956],
+        "southwest": [-7.213139999999962, -35.91914999999995]
+    },
+    "lat": -7.203139999999962,
+    "lng": -35.909149999999954
+}, {
+    "address": "Na\u00e7\u00f5es, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.1839599999999475, -35.867239999999974],
+        "southwest": [-7.203959999999947, -35.88723999999997]
+    },
+    "lat": -7.193959999999947,
+    "lng": -35.87723999999997
+}, {
+    "address": "Concei\u00e7\u00e3o, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.201989999999958, -35.87677999999993],
+        "southwest": [-7.221989999999957, -35.89677999999993]
+    },
+    "lat": -7.2119899999999575,
+    "lng": -35.88677999999993
+}, {
+    "address": "Cuites, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.187309999999959, -35.886009999999935],
+        "southwest": [-7.207309999999959, -35.90600999999993]
+    },
+    "lat": -7.197309999999959,
+    "lng": -35.89600999999993
+}, {
+    "address": "Kampina-Grande, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.193559999999969, -35.84410999999998],
+        "southwest": [-7.2675599999999685, -35.91810999999998]
+    },
+    "lat": -7.230559999999969,
+    "lng": -35.88110999999998
+}, {
+    "address": "Jardim Continental, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.186379999999977, -35.881599999999985],
+        "southwest": [-7.206379999999976, -35.90159999999998]
+    },
+    "lat": -7.1963799999999765,
+    "lng": -35.89159999999998
+}, {
+    "address": "Rua Professora Maria Helena de Menezes, Malvinas, Campina Grande, Para\u00edba, 58433-528",
+    "bbox": {
+        "northeast": [-7.230094805996733, -35.93057234051269],
+        "southwest": [-7.232094805996733, -35.932572340512685]
+    },
+    "lat": -7.231094805996733,
+    "lng": -35.93157234051269
+}, {
+    "address": "Jardim Tavares, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.198569999999928, -35.86067999999997],
+        "southwest": [-7.220569999999928, -35.88267999999997]
+    },
+    "lat": -7.209569999999928,
+    "lng": -35.87167999999997
+}, {
+    "address": "Jeremias, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.196499999999925, -35.88698999999993],
+        "southwest": [-7.218499999999925, -35.90898999999994]
+    },
+    "lat": -7.207499999999925,
+    "lng": -35.897989999999936
+}, {
+    "address": "Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.060049999999977, -35.72698999999993],
+        "southwest": [-7.388049999999977, -36.05498999999993]
+    },
+    "lat": -7.224049999999977,
+    "lng": -35.89098999999993
+}, {
+    "address": "Lauritzen, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.202819999999965, -35.86994999999995],
+        "southwest": [-7.222819999999965, -35.88994999999995]
+    },
+    "lat": -7.212819999999965,
+    "lng": -35.87994999999995
+}, {
+    "address": "Louzeiro, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.1952799999999595, -35.88160999999996],
+        "southwest": [-7.215279999999959, -35.901609999999955]
+    },
+    "lat": -7.205279999999959,
+    "lng": -35.89160999999996
+}, {
+    "address": "Monte Santo, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.202789999999927, -35.89002999999996],
+        "southwest": [-7.222789999999927, -35.910029999999956]
+    },
+    "lat": -7.212789999999927,
+    "lng": -35.90002999999996
+}, {
+    "address": "Novo Bodocongo, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.19641999999998, -35.91407999999995],
+        "southwest": [-7.21641999999998, -35.934079999999945]
+    },
+    "lat": -7.20641999999998,
+    "lng": -35.92407999999995
+}, {
+    "address": "Palmeira, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.200699999999951, -35.88109999999997],
+        "southwest": [-7.222699999999951, -35.903099999999974]
+    },
+    "lat": -7.211699999999951,
+    "lng": -35.89209999999997
+}, {
+    "address": "Rua Belo Monte, Nova Bras\u00edlia, Campina Grande, Para\u00edba, 58406-723",
+    "bbox": {
+        "northeast": [-7.218271937008558, -35.858248809761335],
+        "southwest": [-7.220271937008559, -35.86024880976133]
+    },
+    "lat": -7.219271937008559,
+    "lng": -35.85924880976133
+}, {
+    "address": "Castelo Branco, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.203049999999953, -35.854019999999984],
+        "southwest": [-7.223049999999953, -35.87401999999998]
+    },
+    "lat": -7.213049999999953,
+    "lng": -35.86401999999998
+}, {
+    "address": "Travessa Santa Terezinha, Campina Grande, Para\u00edba, 58410",
+    "bbox": {
+        "northeast": [-7.250596999999998, -35.836741249999996],
+        "southwest": [-7.252596999999999, -35.83874124999999]
+    },
+    "lat": -7.2515969999999985,
+    "lng": -35.83774124999999
+}, {
+    "address": "Rua Silva Jardim, Jos\u00e9 Pinheiro, Campina Grande, Para\u00edba, 58406-060",
+    "bbox": {
+        "northeast": [-7.220113999999994, -35.87108975],
+        "southwest": [-7.222113999999995, -35.87308975]
+    },
+    "lat": -7.221113999999995,
+    "lng": -35.87208975
+}, {
+    "address": "Jos\u00e9 Pinheiro, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.216189999999974, -35.85891999999995],
+        "southwest": [-7.236189999999974, -35.878919999999944]
+    },
+    "lat": -7.226189999999974,
+    "lng": -35.868919999999946
+}, {
+    "address": "Mirante, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.222809999999972, -35.85732999999998],
+        "southwest": [-7.242809999999972, -35.87732999999998]
+    },
+    "lat": -7.232809999999972,
+    "lng": -35.86732999999998
+}, {
+    "address": "Monte Castelo, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.215169999999935, -35.85451999999997],
+        "southwest": [-7.235169999999934, -35.87451999999997]
+    },
+    "lat": -7.225169999999935,
+    "lng": -35.86451999999997
+}, {
+    "address": "Nova Bras\u00edlia, Monte Castelo, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.21155999999993, -35.851329999999926],
+        "southwest": [-7.2335599999999305, -35.87332999999993]
+    },
+    "lat": -7.22255999999993,
+    "lng": -35.86232999999993
+}, {
+    "address": "Santo Ant\u00f4nio, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.206119999999933, -35.86258999999995],
+        "southwest": [-7.226119999999932, -35.882589999999944]
+    },
+    "lat": -7.216119999999933,
+    "lng": -35.872589999999946
+}, {
+    "address": "Vila Cabral, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.232099999999937, -35.85545999999999],
+        "southwest": [-7.2520999999999365, -35.87545999999998]
+    },
+    "lat": -7.242099999999937,
+    "lng": -35.865459999999985
+}, {
+    "address": "Ac\u00e1cio Figueiredo, Presidente M\u00e9dici, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.238249999999956, -35.895749999999985],
+        "southwest": [-7.270249999999956, -35.92774999999998]
+    },
+    "lat": -7.254249999999956,
+    "lng": -35.911749999999984
+}, {
+    "address": "Cidades, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.26087999999993, -35.91636999999997],
+        "southwest": [-7.284879999999929, -35.94036999999997]
+    },
+    "lat": -7.27287999999993,
+    "lng": -35.92836999999997
+}, {
+    "address": "Catol\u00e9, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.220479999999953, -35.865219999999965],
+        "southwest": [-7.244479999999952, -35.889219999999966]
+    },
+    "lat": -7.232479999999953,
+    "lng": -35.877219999999966
+}, {
+    "address": "Rua Josefa Ferreira, Santa Rosa, Campina Grande, Para\u00edba, 58416-343",
+    "bbox": {
+        "northeast": [-7.231669999999997, -35.902650500000014],
+        "southwest": [-7.233669999999997, -35.90465050000001]
+    },
+    "lat": -7.232669999999997,
+    "lng": -35.90365050000001
+}, {
+    "address": "Rua Almirante Alexandrino, Ac\u00e1cio Figueiredo, Campina Grande, Para\u00edba, 58421-420",
+    "bbox": {
+        "northeast": [-7.274901499999995, -35.92038499999999],
+        "southwest": [-7.276901499999996, -35.922384999999984]
+    },
+    "lat": -7.275901499999995,
+    "lng": -35.92138499999999
+}, {
+    "address": "UBS Ronaldo Cunha Lima",
+    "bbox": {
+        "northeast": [-7.250639999999971, -35.91750999999993],
+        "southwest": [-7.260639999999971, -35.927509999999934]
+    },
+    "lat": -7.255639999999971,
+    "lng": -35.92250999999993
+}, {
+    "address": "Rua do Sol, Quarenta, Campina Grande, Para\u00edba, 58416-280",
+    "bbox": {
+        "northeast": [-7.23234741647385, -35.89867475520594],
+        "southwest": [-7.234347416473851, -35.900674755205934]
+    },
+    "lat": -7.23334741647385,
+    "lng": -35.899674755205936
+}, {
+    "address": "Cruzeiro, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.23343999999994, -35.89241999999998],
+        "southwest": [-7.255439999999941, -35.914419999999986]
+    },
+    "lat": -7.2444399999999405,
+    "lng": -35.90341999999998
+}, {
+    "address": "Distrito Industrial, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.2432599999999505, -35.88121999999997],
+        "southwest": [-7.27325999999995, -35.91121999999997]
+    },
+    "lat": -7.25825999999995,
+    "lng": -35.89621999999997
+}, {
+    "address": "Esta\u00e7\u00e3o Velha, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.221999999999971, -35.87596999999993],
+        "southwest": [-7.241999999999971, -35.89596999999993]
+    },
+    "lat": -7.231999999999971,
+    "lng": -35.88596999999993
+}, {
+    "address": "Itarar\u00e9, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.242919999999961, -35.868849999999945],
+        "southwest": [-7.26291999999996, -35.88884999999994]
+    },
+    "lat": -7.2529199999999605,
+    "lng": -35.87884999999994
+}, {
+    "address": "Rua da Borborema, Monte Santo, Campina Grande, Para\u00edba, 58400-700",
+    "bbox": {
+        "northeast": [-7.212529067429309, -35.89793189236606],
+        "southwest": [-7.21452906742931, -35.899931892366055]
+    },
+    "lat": -7.2135290674293095,
+    "lng": -35.89893189236606
+}, {
+    "address": "Jardim Paulistano, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.238879999999929, -35.88617999999996],
+        "southwest": [-7.2588799999999285, -35.90617999999996]
+    },
+    "lat": -7.248879999999929,
+    "lng": -35.89617999999996
+}, {
+    "address": "Vila Vit\u00f3ria, Jos\u00e9 Pinheiro, Campina Grande, Para\u00edba, 58407-333",
+    "bbox": {
+        "northeast": [-7.223506999999997, -35.869953499999994],
+        "southwest": [-7.225506999999998, -35.87195349999999]
+    },
+    "lat": -7.224506999999997,
+    "lng": -35.87095349999999
+}, {
+    "address": "Liberdade, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.225979999999927, -35.88334999999994],
+        "southwest": [-7.245979999999927, -35.90334999999994]
+    },
+    "lat": -7.235979999999927,
+    "lng": -35.89334999999994
+}, {
+    "address": "Avenida Belo Horizonte, Presidente M\u00e9dici, Campina Grande, Para\u00edba, 58423-100",
+    "bbox": {
+        "northeast": [-7.256908795670514, -35.913412512381214],
+        "southwest": [-7.258908795670514, -35.91541251238121]
+    },
+    "lat": -7.257908795670514,
+    "lng": -35.91441251238121
+}, {
+    "address": "Presidente M\u00e9dici, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.242879999999948, -35.90115999999994],
+        "southwest": [-7.262879999999948, -35.92115999999994]
+    },
+    "lat": -7.252879999999948,
+    "lng": -35.91115999999994
+}, {
+    "address": "Quarenta, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.223339999999942, -35.88960999999994],
+        "southwest": [-7.243339999999941, -35.90960999999994]
+    },
+    "lat": -7.2333399999999415,
+    "lng": -35.89960999999994
+}, {
+    "address": "Rua Get\u00falio Cavalcante, Liberdade, Campina Grande, Para\u00edba, 58414-245",
+    "bbox": {
+        "northeast": [-7.23818437611692, -35.893910762388316],
+        "southwest": [-7.240184376116921, -35.89591076238831]
+    },
+    "lat": -7.239184376116921,
+    "lng": -35.894910762388314
+}, {
+    "address": "Travessa Maria Rosa, Monte Santo, Campina Grande, Para\u00edba, 58400-742",
+    "bbox": {
+        "northeast": [-7.207835053004942, -35.89911647657395],
+        "southwest": [-7.209835053004943, -35.90111647657395]
+    },
+    "lat": -7.208835053004942,
+    "lng": -35.90011647657395
+}, {
+    "address": "Sandra Cavalcante, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.232129999999975, -35.864649999999976],
+        "southwest": [-7.252129999999974, -35.88464999999997]
+    },
+    "lat": -7.242129999999975,
+    "lng": -35.874649999999974
+}, {
+    "address": "S\u00e3o Jos\u00e9, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.215639999999942, -35.88217999999994],
+        "southwest": [-7.2356399999999415, -35.90217999999994]
+    },
+    "lat": -7.225639999999942,
+    "lng": -35.89217999999994
+}, {
+    "address": "Tambor, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.236789999999952, -35.87637999999995],
+        "southwest": [-7.258789999999952, -35.89837999999995]
+    },
+    "lat": -7.247789999999952,
+    "lng": -35.88737999999995
+}, {
+    "address": "Tr\u00eas Irm\u00e3s, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.235119999999943, -35.91240999999997],
+        "southwest": [-7.273119999999944, -35.95040999999997]
+    },
+    "lat": -7.2541199999999435,
+    "lng": -35.93140999999997
+}, {
+    "address": "Velame, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.257339999999962, -35.892819999999936],
+        "southwest": [-7.289339999999962, -35.92481999999993]
+    },
+    "lat": -7.273339999999962,
+    "lng": -35.908819999999935
+}, {
+    "address": "Bela Vista, Universit\u00e1rio, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.207439999999954, -35.89474999999998],
+        "southwest": [-7.2274399999999535, -35.91474999999998]
+    },
+    "lat": -7.217439999999954,
+    "lng": -35.90474999999998
+}, {
+    "address": "Bodocong\u00f3, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.211689999999943, -35.90503999999995],
+        "southwest": [-7.233689999999943, -35.927039999999955]
+    },
+    "lat": -7.222689999999943,
+    "lng": -35.91603999999995
+}, {
+    "address": "Centen\u00e1rio, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.217639999999951, -35.89147999999994],
+        "southwest": [-7.237639999999951, -35.91147999999993]
+    },
+    "lat": -7.227639999999951,
+    "lng": -35.901479999999935
+}, {
+    "address": "Pra\u00e7a Severino Cabral, Bodocong\u00f3, Campina Grande, Para\u00edba, 58430",
+    "bbox": {
+        "northeast": [-7.2234439999999935, -35.916488],
+        "southwest": [-7.225443999999994, -35.918487999999996]
+    },
+    "lat": -7.224443999999994,
+    "lng": -35.917488
+}, {
+    "address": "Dinam\u00e9rica, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.22345999999998, -35.90468999999995],
+        "southwest": [-7.243459999999979, -35.92468999999995]
+    },
+    "lat": -7.23345999999998,
+    "lng": -35.91468999999995
+}, {
+    "address": "Jardim Verdejante",
+    "bbox": {
+        "northeast": [-7.2476099999999475, -35.92816999999996],
+        "southwest": [-7.257609999999947, -35.938169999999964]
+    },
+    "lat": -7.252609999999947,
+    "lng": -35.93316999999996
+}, {
+    "address": "Jo\u00e3o Paulo II",
+    "bbox": {
+        "northeast": [-7.232449999999967, -35.870879999999936],
+        "southwest": [-7.242449999999967, -35.88087999999994]
+    },
+    "lat": -7.237449999999967,
+    "lng": -35.87587999999994
+}, {
+    "address": "Malvinas, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.22697999999996, -35.91274999999995],
+        "southwest": [-7.24697999999996, -35.93274999999995]
+    },
+    "lat": -7.23697999999996,
+    "lng": -35.92274999999995
+}, {
+    "address": "Serrot\u00e3o, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.191599999999933, -35.91494999999997],
+        "southwest": [-7.225599999999933, -35.948949999999975]
+    },
+    "lat": -7.208599999999933,
+    "lng": -35.93194999999997
+}, {
+    "address": "Pedregal, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.214659999999972, -35.89847999999994],
+        "southwest": [-7.2346599999999714, -35.91847999999994]
+    },
+    "lat": -7.224659999999972,
+    "lng": -35.90847999999994
+}, {
+    "address": "Prata, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.210829999999978, -35.88474999999993],
+        "southwest": [-7.230829999999978, -35.90474999999993]
+    },
+    "lat": -7.220829999999978,
+    "lng": -35.89474999999993
+}, {
+    "address": "Ramadinha, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.205729999999951, -35.91873999999995],
+        "southwest": [-7.225729999999951, -35.938739999999946]
+    },
+    "lat": -7.215729999999951,
+    "lng": -35.92873999999995
+}, {
+    "address": "Santa Cruz, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.236099999999956, -35.90004999999996],
+        "southwest": [-7.256099999999956, -35.920049999999954]
+    },
+    "lat": -7.246099999999956,
+    "lng": -35.910049999999956
+}, {
+    "address": "Santa Rosa, Santa Cruz, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.226609999999928, -35.90040999999996],
+        "southwest": [-7.246609999999928, -35.920409999999954]
+    },
+    "lat": -7.236609999999928,
+    "lng": -35.910409999999956
+}, {
+    "address": "Rua S\u00e3o Janu\u00e1rio, Serrot\u00e3o, Campina Grande, Para\u00edba, 58437-690",
+    "bbox": {
+        "northeast": [-7.20853891136399, -35.93103990147416],
+        "southwest": [-7.210538911363991, -35.93303990147415]
+    },
+    "lat": -7.209538911363991,
+    "lng": -35.932039901474155
+}, {
+    "address": "Rua S\u00e3o Lucas, Jeremias, Campina Grande, Para\u00edba, 58404-200",
+    "bbox": {
+        "northeast": [-7.203379253155173, -35.89826618151455],
+        "southwest": [-7.205379253155174, -35.900266181514546]
+    },
+    "lat": -7.204379253155174,
+    "lng": -35.89926618151455
+}, {
+    "address": "Universit\u00e1rio, Campina Grande, Para\u00edba",
+    "bbox": {
+        "northeast": [-7.195089999999937, -35.89756999999997],
+        "southwest": [-7.2190899999999365, -35.921569999999974]
+    },
+    "lat": -7.207089999999937,
+    "lng": -35.909569999999974
+}]

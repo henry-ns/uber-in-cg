@@ -1,1 +1,5 @@
 # uber-in-cg
+            Na pasta src possui os arquivos responsáveis por conseguir as coordenadas (get_coordinates.ipynb) que serão os pontos onde que serão usados para conseguir as estimativas de tempo no arquivo uberCG.py. No arquivo main.ipynb está o código responsável por plotar os pontos no mapa de campina grande-pb. No arquivo UberCG.ipynb estão algumas informações retiradas dos dados após algumas análises estatísticas.
+            Importante destacar que para executar todos esses códigos é necessário que na máquina esteja instalado o python 2.x com as seguintes bibliotecas: uber_rides, pandas, plotly, matplotlib, geocoder, requests, json, datetime e time.
+            Na pasta res estão todos os dados coletados. Em bairros_estimativas.csv estão as informações de estimativa de tempo de cada ponto e o horário no qual aquelas estimativas foram colhidas. Em bairros_estimativas_header.csv possui apenas os nomes de cada ponto. Em geo.json possui o nome(‘address’) e coordenadas(‘lat’, ‘lng’) dos pontos.
+

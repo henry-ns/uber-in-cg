@@ -1,20 +1,22 @@
-import datetime as dt
-import json
-import time
-import pandas as pd
+import datetime as dt #responsavel por pegar a hora na qual a estimativa foi coletada
+import json           #para conseguir ler o arquivo json onde os dados sobre os pontos estão armazenados
+from time import sleep#a função sleep faz o programa 'dormir' por um tempo
+import pandas as pd   #aqui a biblioteca pandas está responsavel por salvar os dados de maneira mais fácil
 
+#a biblioteca uber_rides é a API da Uber responsavel por informar as estimativas de tempo de viagem
 from uber_rides.session import Session
 from uber_rides.client import UberRidesClient
 
-uber_token = 'token'
-product_id = 'd19e0080-4039-4a6f-97de-d00e0f43f3cc'
+uber_token = 'token'                                # você necessita de um token para fazer as requisições ao servidor da Uber
+product_id = 'd19e0080-4039-4a6f-97de-d00e0f43f3cc' #este ID informa o produto UberX que é o unico produto disponivel na cidade de Campina Grande-PB
 
-session = Session(server_token=uber_token)
+session = Session(server_token=uber_token)   #Inicialização da sessão com base no token informado
 client = UberRidesClient(session)
 
 data = open('..\\res\\geo.json')
-points = json.load(data)
+points = json.load(data)        
 
+#no loop a seguir, a cada 30 minutos, é salvo o horario bem como a requisição de previsão de tempo de espera em cada um dos pontos de cg em um arquivo csv
 while True:
     horario = dt.datetime.now()
     nbhoods_data = {}
@@ -31,4 +33,4 @@ while True:
     dataFrame = pd.DataFrame(nbhoods_data)
     dataFrame.to_csv('bairros_estimativas.csv', mode='a', header=False)
     print('waiting 30 minutes')
-    time.sleep(1800)
+    sleep(1800)
